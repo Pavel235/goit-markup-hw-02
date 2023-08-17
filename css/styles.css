@@ -4,6 +4,10 @@
     background-color: #FFFFFF;
 }
 
+.address-info {
+    font-style: normal;
+}
+
 .address-style:hover {
     color: #404BBF;
 }
@@ -18,7 +22,6 @@
     font-weight: 400;
     color: #434455;
     font-size: 16px;
-    font-style: normal;
     letter-spacing: 0.02em;
 }
 
@@ -109,6 +112,10 @@
     background-color:#FFFFFF;
 }
 
+.team-color {
+    background-color: #F4F4FD;
+}
+
 .team-head {
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
@@ -117,6 +124,7 @@
     font-size: 36px;
     text-align: center;
     letter-spacing: 0.02em;
+    text-transform: capitalize;
 }
 
 .team-member {
@@ -155,6 +163,7 @@
     color: #2E2F42;
     font-size: 20px;
     letter-spacing: 0.02em;
+    text-transform: capitalize;
 }
 
 .portfolio-text {
