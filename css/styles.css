@@ -16,6 +16,7 @@
     line-height: 1.5;
     font-weight: 400;
     color: #434455;
+    font-size: 16px;
 }
 
 .logo {
@@ -23,10 +24,12 @@
     line-height: 1.5;
     font-weight: 700;
     color:  #2E2F42;
+    font-size: 18px;
 }
 
 .site {
     color: #4D5AE5;
+    font-size: 18px;
 }
 
 .contacts {
@@ -34,10 +37,13 @@
     line-height: 1.5;
     font-weight: 500;
     color: #2E2F42;
+    font-size: 16px;
 }
 
 .solutions {
     background-color: #2E2F42;
+    height: 600px;
+    width: 1440px;
 }
 
 .effect {
@@ -45,6 +51,7 @@
     line-height: 1.07;
     font-weight: 700;
     color: #FFFFFF;
+    font-size: 56px;
 }
 
 .service-button {
@@ -54,6 +61,7 @@
     font-weight: 500;
     color: #FFFFFF;
     cursor: pointer;
+    font-size: 16px;
 }
 
 .advantages h3 {
@@ -61,6 +69,7 @@
     font-weight: 500;
     line-height: 1.2;
     color: #2E2F42;
+    font-size: 20px;
 }
 
 .advantages h2 {
@@ -68,6 +77,7 @@
     font-weight: 700;
     line-height: 1.11;
     color: #2E2F42;
+    font-size: 36px;
 }
 
 .advantages p {
@@ -75,6 +85,7 @@
     font-weight: 400;
     line-height: 1.5;
     color:#434455;
+    font-size: 16px;
 }
 
 .team {
@@ -86,6 +97,7 @@
     font-weight: 700;
     line-height: 1.11;
     color: #2E2F42;
+    font-size: 36px;
 }
 
 .team h3 {
@@ -93,6 +105,7 @@
     font-weight: 500;
     line-height: 1.2;
     color: #2E2F42;
+    font-size: 20px;
 }
 
 .team p {
@@ -100,6 +113,7 @@
     font-weight: 400;
     line-height: 1.5;
     color:#434455;
+    font-size: 16px;
 }
 
 .portfolio h2 {
@@ -107,6 +121,7 @@
     font-weight: 700;
     line-height: 1.11;
     color: #2E2F42;
+    font-size: 36px;
 }
 
 .portfolio h3 {
@@ -114,6 +129,7 @@
     font-weight: 500;
     line-height: 1.2;
     color: #2E2F42;
+    font-size: 20px;
 }
 
 .portfolio p {
@@ -121,6 +137,7 @@
     font-weight: 400;
     line-height: 1.5;
     color:#434455;
+    font-size: 16px;
 }
 
 .footer-text p {
@@ -128,6 +145,7 @@
     font-weight: 400;
     line-height: 1.5;
     color:#F4F4FD;
+    font-size: 16px;
 }
 
 .footer-text {
@@ -139,4 +157,5 @@
     line-height: 1.5;
     font-weight: 700;
     color: #F4F4FD;
+    font-size: 18px;
 }
