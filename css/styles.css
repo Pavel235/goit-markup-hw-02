@@ -4,6 +4,14 @@
     background-color: #FFFFFF;
 }
 
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
 .address-info {
     font-style: normal;
 }
@@ -19,7 +27,6 @@
 .address-style {
     font-family: 'Roboto', sans-serif;
     line-height: 1.5;
-    font-weight: 400;
     color: #434455;
     font-size: 16px;
     letter-spacing: 0.02em;
@@ -101,7 +108,6 @@
 
 .advantages-text {
     font-family: 'Roboto', sans-serif;
-    font-weight: 400;
     line-height: 1.5;
     color:#434455;
     font-size: 16px;
@@ -138,7 +144,6 @@
 
 .team-text {
     font-family: 'Roboto', sans-serif;
-    font-weight: 400;
     line-height: 1.5;
     color:#434455;
     font-size: 16px;
@@ -168,7 +173,6 @@
 
 .portfolio-text {
     font-family: 'Roboto', sans-serif;
-    font-weight: 400;
     line-height: 1.5;
     color:#434455;
     font-size: 16px;
@@ -177,7 +181,6 @@
 
 .footer-text {
     font-family: 'Roboto', sans-serif;
-    font-weight: 400;
     line-height: 1.5;
     color:#F4F4FD;
     font-size: 16px;
